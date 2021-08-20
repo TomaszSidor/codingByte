@@ -8,5 +8,6 @@ public class interfacesTest {
         System.out.println(parrot.getAge());
         System.out.println(parrot.isAlive());
         System.out.println(lion.isAlive());
+        System.out.println(lion.isAlive());
     }
 }
